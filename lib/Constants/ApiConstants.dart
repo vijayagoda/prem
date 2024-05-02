@@ -1,0 +1,11 @@
+const String baseUrl = "https://studylancer.yuktidea.com/api/";
+const String termsAndConditions = "terms-conditions";
+const String countryList = "countries";
+const String studentLogin = "student/login";
+const String adminLogin = "counsellor/login";
+const String verifyOtp = "verify-otp";
+const String resendOtp = "resend-otp";
+const String selectCountryGet = "select/country";
+const String selectCountryPost = "select/country";
+const String logout = "logout";
+const String delete = "delete";
